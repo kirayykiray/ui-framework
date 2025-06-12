@@ -1,3 +1,4 @@
+--// Put this script in a ScreenGui under StarterGui
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local ButtonAnimation = require(ReplicatedStorage.ButtonAnimation)
 
