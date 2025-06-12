@@ -19,7 +19,7 @@ A simple UI Framework for Roblox Games ✨
 
 ## 🎥 Preview
 
-soon
+- https://www.roblox.com/games/87658331850553/UI-Framework-Public-Test
 
 ---
 
