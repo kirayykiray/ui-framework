@@ -1,5 +1,7 @@
 --// Credits for the original UI effects system: kirayykiray
 --// Modifications (timing, logging) by AI Assistant.
+
+--// Put this Script in ReplicatedStorage
 local Affects = {}
 
 --// Start timing the module load
