@@ -45,7 +45,7 @@ A simple UI Framework for Roblox Games ✨
 
 Special thanks to:
 
-- 🧠 **StewiePfing** – For inspiration and Code Snippets  
+- 🧠 **Stewiepfing** – For inspiration and Code Snippets  
 - 🤖 **AI** – For helping me develop the System  
 
 ---
