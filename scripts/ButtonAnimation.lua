@@ -127,6 +127,7 @@ function Affects.Animate(button: GuiButton)
 
 	local upConnection = button.MouseButton1Up:Connect(function() if isMouseCurrentlyOver then TweenTo(HoverSize) end end)
 
+	
 	--// Cleanup
 	button.Destroying:Once(function()
 		enterConnection:Disconnect(); leaveConnection:Disconnect(); downConnection:Disconnect(); upConnection:Disconnect()
