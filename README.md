@@ -28,7 +28,7 @@ A simple UI Framework for Roblox Games ✨
 1. Install the **latest** version: https://github.com/kirayykiray/ui-framework/releases/tag/Update
 2. **Right Click** on **Workspace** and select **Insert** and then **Insert from file**. Now, select the downloaded file.
 3. **Ungroup Everything** in the correct directories.
-4. Now add **any Button** to your liking to the extracted **ScreenGui**, set the *AnchorPoint** to **`0.5, 0.5`**
+4. Now add **any Button** to your liking to the extracted **ScreenGui**, set the **AnchorPoint** to **`0.5, 0.5`**
 
 > [!TIP]
 > Scroll down to the **Tags**, and add available presets:
